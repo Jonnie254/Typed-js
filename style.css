@@ -9,4 +9,11 @@
     height:100vh;
     background-color: #2b323c;
     color:#fff;   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container h1{
+    font-size: 80px;
+    font-weight: 600;
 }
